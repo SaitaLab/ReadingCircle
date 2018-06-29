@@ -1,0 +1,2 @@
+# ReadingEnglishLiteratures
+英語文献購読に使った資料や当日の解説に使ったノートを保管する場所
