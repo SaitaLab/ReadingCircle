@@ -2,6 +2,20 @@
 
 英語文献講読に使った資料や当日の解説に使ったノートを保管する場所
 
+## 2018-06-14
+<dl>
+	<dt>タイトル</dt>
+	<dd>"Predictions of Solar Cycle 24 (Solar Physics2008, William Dean Pesnell)"</dd>
+	<dt>解説担当</dt>
+	<dd>柏田</dd>
+	<dt>参加者</dt>
+	<dd>柏田、才田、中村</dd>
+	<dt>講読箇所</dt>
+	<dd>Abstract (65 Words, 372 Characters)およびIntroduction (342 Words, 1842 Characters)</dd>
+	購読箇所を約20分かけて通読後、解説担当はこの文献から該当分野の課題、当該研究による課題解決手法、研究成果、を読み取って報告した。
+</dl>
+
+
 ## 2018-07-05
 <dl>
 	<dt>タイトル</dt>
