@@ -54,3 +54,27 @@
 <dd>Introduction (580 Words, 3390 Characters)</dd>
 文献を約30分かけて通読後、参加者全体で話し合い、この文献から該当分野の課題、当該研究による課題解決手法、研究成果、を読み取り考察した。
 </dl>
+
+## 2018-10-11
+<dl>
+<dt>タイトル</dt>
+<dd>"Web-based interactive 2D/3D medical image processing and visualization software (Mahmoudi et. al., 2010)"</dd>
+<dt>参加者</dt>
+<dd>才田、柏田、中村</dd>
+<dt>講読箇所</dt>
+<dd>Introduction (580 Words, 3390 Characters)</dd>
+文献を約30分かけて通読後、参加者全体で話し合い、この文献から該当分野の課題、当該研究による課題解決手法、研究成果、を読み取り考察した。
+</dl>
+
+## 2018-12-10
+<dl>
+	<dt>タイトル</dt>
+	<dd>"Garbage-First Garbage Collection (ACM2004, Detlefs et. al.)"</dd>
+	<dt>解説担当</dt>
+	<dd>中村</dd>
+	<dt>参加者</dt>
+	<dd>才田、柏田、中村</dd>
+	<dt>講読箇所</dt>
+	<dd>Introduction (599 Words, 3390 Characters)および本文（2000 Words以上）</dd>
+	文献を約30分かけて通読後、解説担当はこの文献から該当分野の課題、当該研究による課題解決手法、研究成果、を読み取って報告した。
+</dl>
