@@ -2,6 +2,20 @@
 
 英語文献講読に使った資料や当日の解説に使ったノートを保管する場所
 
+## 2018-05-31
+<dl>
+	<dt>タイトル</dt>
+	<dd>"Elm Architecture(https://elmprogramming.com/elm-architecture.html)"</dd>
+	<dt>解説担当</dt>
+	<dd>中村</dd>
+	<dt>参加者</dt>
+	<dd>中村、才田、柏田</dd>
+	<dt>講読箇所</dt>
+	<dd>Introduction (416 Words)</dd>
+	購読箇所を約20分かけて通読後、解説担当はこの文献から該当分野の課題、当該研究による課題解決手法、研究成果、を読み取って報告した。
+</dl>
+
+
 ## 2018-06-14
 <dl>
 	<dt>タイトル</dt>
