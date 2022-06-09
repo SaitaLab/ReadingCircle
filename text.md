@@ -115,7 +115,7 @@ Swarmは、地球の内部電界源と電離層-磁気圏電流システムの�
 The primary research objectives of the mission are:
 ミッションの主な研究目的は次のとおりです。
 • studies of core dynamics, geodynamo processes, and core-mantle interaction,
-コアダイナミクス、ジオダイナモプロセス、コア-マントル相互作用の研究、
+コアダイナミクス、ジオダイナモ(地磁気ダイナモ?)プロセス、コア-マントル相互作用の研究、
 • mapping of the lithospheric magnetisation and its geo logical interpretation,
 リソスフェア磁化のマッピングとその地質学的解釈、
 • determination of the 3D electrical conductivity of the mantle,
