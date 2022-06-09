@@ -110,3 +110,15 @@ The more challenging partis, however, to separate the contributions from the var
 ただし、より困難な部分は、さまざまな成分を分離することです。
 Swarm will simultaneously obtain a space–time characterization of both the internal field sources in the Earth and the ionospheric–magnetospheric current systems.
 Swarmは、地球の内部電界源と電離層-磁気圏電流システムの両方の時空間特性を同時に取得します。
+
+[担当:山本]
+The primary research objectives of the mission are:
+ミッションの主な研究目的は次のとおりです。
+• studies of core dynamics, geodynamo processes, and core-mantle interaction,
+コアダイナミクス、ジオダイナモプロセス、コア-マントル相互作用の研究、
+• mapping of the lithospheric magnetisation and its geo logical interpretation,
+リソスフェア磁化のマッピングとその地質学的解釈、
+• determination of the 3D electrical conductivity of the mantle,
+マントルの3D電気伝導率の決定、
+• investigation of electric currents flowing in the magneto-sphere and ionosphere
+磁気圏と電離層を流れる電流の調査
