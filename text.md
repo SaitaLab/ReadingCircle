@@ -122,3 +122,15 @@ The primary research objectives of the mission are:
 マントルの3D電気伝導率の決定、
 • investigation of electric currents flowing in the magneto-sphere and ionosphere
 磁気圏と電離層を流れる電流の調査
+
+[担当:山本]
+In addition to the above sources, the ocean currents produce a contribution to the measured magnetic field.
+上記のソースに加えて、海流は測定された磁場への寄与を生み出します。
+But the magnetic field is not only used as evidence of the evolution of the planet, it also exerts a very direct control on the dynamics of the ionised and neutral particles in the upper atmosphere, and has possibly even some influence on the lower atmosphere.
+しかし、磁場は惑星の進化の証拠として使用されるだけでなく、上層大気のイオン化された中性粒子のダイナミクスに非常に直接的な制御をもたらし、下層大気にも何らかの影響を与える可能性があります。
+This leads to the identification of the secondary research objectives:
+これにより、二次の研究目的が特定されます。
+・identify the ocean circulation by it magnetic signature,
+磁気特性図によって海洋循環を識別し、
+・quantify the magnetic forcing of the upper atmosphere.
+上層大気の磁気力を定量化します。
